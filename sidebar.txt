@@ -17,3 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/bjt|Ethnologue data]]
 
+
+**Resources**
+
+  * [[bjt:obs|Open Bible Stories (bjt)]]
